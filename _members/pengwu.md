@@ -1,6 +1,6 @@
 ---
 name: Peng Wu
-image: images/pengwu.jpg
+image: images/pengwu.png
 role: phd
 group: alum
 links:
