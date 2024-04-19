@@ -1,12 +1,12 @@
 ---
-name: Jane Smith
+name: Pau Closas
 image: images/photo.jpg
 role: pi
-aliases:
-  - J. Smith
-  - J Smith
+# aliases:
+#   - J. Smith
+#   - J Smith
 links:
-  home-page: https://janesmith.com
+  home-page: https://coe.northeastern.edu/people/closas-pau/
   orcid: 0000-0001-8713-9213
 ---
 
