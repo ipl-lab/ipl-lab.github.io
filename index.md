@@ -1,8 +1,9 @@
 ---
 ---
 
-# Welcome to our site! In the Information Processing Lab, our research is somewhere in the frontiers of statistical signal processing, machine learning and computational statistics. We are interested in practical problems in applications such as satellite-based navigation, indoor positioning and localization, wireless communications, and computational biology.
+### Welcome to our site! Our lab website is in the rebuild phrase, come back soon!
 
+In the Information Processing Lab, our research is somewhere in the frontiers of statistical signal processing, machine learning and computational statistics. We are interested in practical problems in applications such as satellite-based navigation, indoor positioning and localization, wireless communications, and computational biology.
 
 
 
